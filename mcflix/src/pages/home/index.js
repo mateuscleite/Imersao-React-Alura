@@ -1,17 +1,15 @@
 import React from 'react';
-import Menu from './components/Menu';
-import Footer from'./components/Footer';
-import BannerMain from './components/BannerMain';
-import CarouselGroup from './components/Carousel Group'
-import Videos from './data/dados_iniciais.json'
+import PageDefault from '../../components/PageDefault';
+import BannerMain from '../../components/BannerMain';
+import CarouselGroup from '../../components/Carousel Group'
+import Videos from '../../data/dados_iniciais.json'
 
-function App() {
+function Home() {
   let nCategory = Math.floor(Math.random() * Videos.categorias.length);
   let nVideo = Math.floor(Math.random() * Videos.categorias[nCategory].videos.length);
 
   return (
-    <div style={{background: "#141414"}}>
-      <Menu />
+    <PageDefault>
 
       <BannerMain 
         videoTitle={Videos.categorias[nCategory].videos[nVideo].titulo} 
@@ -20,12 +18,9 @@ function App() {
 
       <CarouselGroup videos={Videos}/>
 
-
-      <Footer />
-
-    </div>
+    </PageDefault>
 
   );
 }
 
-export default App;
+export default Home;

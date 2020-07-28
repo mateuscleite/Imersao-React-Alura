@@ -1,3 +1,5 @@
-ul.CarouselGroup {
-    list-style-type: none;
+li::marker {
+    content: none;
+    color: black;
 }
+
