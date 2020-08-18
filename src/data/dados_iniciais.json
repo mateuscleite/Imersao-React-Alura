@@ -1,92 +1,132 @@
 {
   "categorias": [
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Pulp Fiction",
-          "url": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
-        },
-        {
-          "titulo": "Kill Bill Vol.1",
-          "url": "https://www.youtube.com/watch?v=7kSuas6mRpk"
-        },
-        {
-          "titulo": "Apertem Os Cintos, O Piloto Sumiu",
-          "url": "https://www.youtube.com/watch?v=07pPmCfKi3U"
-        },
-        {
-          "titulo": "Planeta dos Macacos: O Confronto",
-          "url": "https://www.youtube.com/watch?v=DpSaTrW4leg"
-        },
-        {
-          "titulo": "Coringa",
-          "url": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
-        },
-        {
-          "titulo": "Parasita",
-          "url": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
-        },
-        {
-          "titulo": "O Farol",
-          "url": "https://www.youtube.com/watch?v=Hyag7lR8CPA"
-        },
-        {
-          "titulo": "Midsommar",
-          "url": "https://www.youtube.com/watch?v=1Vnghdsjmd0"
-        }
-      ]
-    },
-    {
-      "titulo": "Séries",
-      "cor": "#6b5be2",
-      "videos": [
-        {
-          "titulo": "Arquivo X",
-          "url": "https://www.youtube.com/watch?v=8rhge-os-18"
-        },
-        {
-          "titulo": "Breaking Bad",
-          "url": "https://www.youtube.com/watch?v=HhesaQXLuRY"
-        },
-        {
-          "titulo": "Twin Peaks",
-          "url": "https://www.youtube.com/watch?v=eOUoXhb4V6s"
-        },
-        {
-          "titulo": "The Man In The High Castle",
-          "url": "https://www.youtube.com/watch?v=zzayf9GpXCI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Turma da Mônica",
+      "cor": "var(--monica)",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Veja mais aqui",
+        "url": "https://www.youtube.com/watch?v=g9VkgfajaBU&list=PLWduEF1R_tVZYNTH8ajFOEDkDT_hfIQL9"
       },
       "videos": [
         {
-          "titulo": "Overwatch",
-          "url": "https://www.youtube.com/watch?v=oJ09xdxzIJQ"
+          "titulo": "O Teatro de Fantoches",
+          "url": "https://www.youtube.com/watch?v=g9VkgfajaBU"
         },
         {
-          "titulo": "The Witcher 3",
-          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs&has_verified=1"
+          "titulo": "Dono da Metade da Rua",
+          "url": "https://www.youtube.com/watch?v=XZLIVEn6w6M"
         },
         {
-          "titulo": "XCOM 2",
-          "url": "https://www.youtube.com/watch?v=ZlF4_o3qALo"
+          "titulo": "A Casa na Árvore",
+          "url": "https://www.youtube.com/watch?v=z9DsW4ln2xs"
         },
         {
-          "titulo": "Rimworld",
-          "url": "https://www.youtube.com/watch?v=3tDrxOASUog"
+          "titulo": "Feliz com Meu Brinquedo",
+          "url": "https://www.youtube.com/watch?v=2cpcf6MV-HQ"
         },
         {
-          "titulo": "Dragon Quest XI: Echoes Of An Elusive Age",
-          "url": "https://www.youtube.com/watch?v=bg0oBJ9cXYM"
+          "titulo": "Os Azuis",
+          "url": "https://www.youtube.com/watch?v=QX82lsTJTGI"
+        },
+        {
+          "titulo": "Venha à minha festinha",
+          "url": "https://www.youtube.com/watch?v=AfxhnsQTkMQ"
+        },
+        {
+          "titulo": "Rei por um dia",
+          "url": "https://www.youtube.com/watch?v=kBIK81Eu9TQ"
+        },
+        {
+          "titulo": "Faça um pedido",
+          "url": "https://www.youtube.com/watch?v=B4i0RMqvRK0"
+        }
+      ]
+    },
+    {
+      "titulo": "O Show da Luna!",
+      "cor": "var(--luna)",
+      "link_extra": {
+        "text": "Veja mais aqui",
+        "url": "https://www.youtube.com/watch?v=qvh38dluldc&list=PLXnmvJVu5zF_63iub-yHD9d9sNzCTq2vT"
+      },
+      "videos": [
+        {
+          "titulo": "Dor de Dente",
+          "url": "https://www.youtube.com/watch?v=qvh38dluldc"
+        },
+        {
+          "titulo": "Quatro Luas para Luna",
+          "url": "https://www.youtube.com/watch?v=e7SF0opk274"
+        },
+        {
+          "titulo": "Cheirinho de Terra Molhada",
+          "url": "https://www.youtube.com/watch?v=EcLwT6uLlu8"
+        },
+        {
+          "titulo": "Pula-Pula Pipoca",
+          "url": "https://www.youtube.com/watch?v=W5Hi01YvFkg"
+        },
+        {
+          "titulo": "Maravilhosa Floresta de Chocolate",
+          "url": "https://www.youtube.com/watch?v=QkgcshxQxcQ"
+        },
+        {
+          "titulo": "Verde Por Fora Vermelha Por Dentro",
+          "url": "https://www.youtube.com/watch?v=s2gIU9dZFI8"
+        },
+        {
+          "titulo": "Por que as estrelas piscam?",
+          "url": "https://www.youtube.com/watch?v=JLbrlrOIfFo"
+        },
+        {
+          "titulo": "O Arco-Íris",
+          "url": "https://www.youtube.com/watch?v=is9IsFIzaGM"
+        },
+        {
+          "titulo": "Como a Água Vira Chuva",
+          "url": "https://www.youtube.com/watch?v=WpOkQ7ayUxQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Catalendas",
+      "cor": "var(--catalendas)",
+      "link_extra": {
+        "text": "Veja mais aqui",
+        "url": "https://www.youtube.com/watch?v=f3P3rNkchss&list=PLfyCCnnknF1sHSFJG7-bupeCPKtk4valc"
+      },
+      "videos": [
+        {
+          "titulo": "Festa No Céu",
+          "url": "https://www.youtube.com/watch?v=JN0MFvyReKU"
+        },
+        {
+          "titulo": "O Saci",
+          "url": "https://www.youtube.com/watch?v=UwAzI-x3vpk"
+        },
+        {
+          "titulo": "O Boto",
+          "url": "https://www.youtube.com/watch?v=ccMtBKXeTIc"
+        },
+        {
+          "titulo": "A Lenda da Vitória-Régia",
+          "url": "https://www.youtube.com/watch?v=GR0DOWW6E3I"
+        },
+        {
+          "titulo": "O Homem Que Botava Ovo",
+          "url": "https://www.youtube.com/watch?v=I5OXbfZQtwE"
+        },
+        {
+          "titulo": "Curupira",
+          "url": "https://www.youtube.com/watch?v=Gg1L9l3sHZw"
+        },
+        {
+          "titulo": "Um pra mim, um pra ti, um pra eu",
+          "url": "https://www.youtube.com/watch?v=CWFcd-Q7MvY"
+        },
+        {
+          "titulo": "A Sopa de Pedras",
+          "url": "https://www.youtube.com/watch?v=8FlGLM-jLWo"
         }
       ]
     },
@@ -99,12 +139,8 @@
           "url": "https://www.youtube.com/watch?v=Eoe3TYWSymw"
         },
         {
-          "titulo": "Receita de DONUTS AMERICANOS",
+          "titulo": "RECEITA DE DONUTS AMERICANOS",
           "url": "https://www.youtube.com/watch?v=LxEELI-sQ24"
-        },
-        {
-          "titulo": "É ASSIM QUE FAÇO MAIONESE! | ERICK JACQUIN",
-          "url": "https://www.youtube.com/watch?v=Ai2ANvomukY"
         },
         {
           "titulo": "SOBREMESA GELADA DE LEITE NINHO",
@@ -117,97 +153,6 @@
         {
           "titulo": "BOLO DE FUBÁ CREMOSO DE LIQUIDIFICADOR",
           "url": "https://www.youtube.com/watch?v=XMZ7PQxEGmw"
-        }
-      ]
-    },
-    {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "Como criar um robô que acessa sites com JavaScript .feat NodeJS | O que é Pupeteer?",
-          "url": "https://www.youtube.com/watch?v=4W55nFDyIrc&t"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        },
-        {
-          "titulo": "Uploading an Image | Creating a REST API with Node.js",
-          "url": "https://www.youtube.com/watch?v=d_UuOVhuCF8"
-        },
-        {
-          "titulo": "Uploading an Image | Creating a REST API with Node.js",
-          "url": "https://www.youtube.com/watch?v=srPXMt1Q0nY"
-        },
-        {
-          "titulo": "Promises - Part 8 of Functional Programming in JavaScript",
-          "url": "https://www.youtube.com/watch?v=2d7s3spWAzo"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
     }

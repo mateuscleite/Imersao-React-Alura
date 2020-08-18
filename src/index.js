@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {BrowserRouter, Switch, Route} from 'react-router-dom' 
 import './index.css';
 import Home from './pages/home';
 import NewVideo from './pages/new/video';
 import NewCategory from './pages/new/category';
 import Page404 from './pages/page404';
 import * as serviceWorker from './serviceWorker';
-import {BrowserRouter, Switch, Route} from 'react-router-dom' 
 
 ReactDOM.render(
   

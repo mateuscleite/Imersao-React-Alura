@@ -1,17 +1,19 @@
 * {
   box-sizing: border-box;
-  font-family: 'Michroma', sans-serif;
+  font-family: 'Fredoka One', cursive;
 }
 
 :root {
-  --primary: #2A7AE4;
+  --background: #008568;
+  --primary: #c9c602;
   --black: #000000;
+  --monica: #eb0202;
+  --luna: #15014a;
+  --catalendas: #a6ad1d;
   --blackLighter: #9e9e9efa;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
-  --backEnd: #00C86F;
 }
 
 html,
